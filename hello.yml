@@ -7,4 +7,4 @@
   tasks:
     - name: Saying hello to you, my friend!
       debug:
-        msg: "Hello, hello, hello!"
+        msg: "Hello, hello, hello! A greeting for you!"
