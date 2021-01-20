@@ -1,6 +1,6 @@
 ---
 - name         : Hello World - Dev
-  hosts        : ssc__prod
+  hosts        : ssc__dev
   gather_facts : true
 
 
