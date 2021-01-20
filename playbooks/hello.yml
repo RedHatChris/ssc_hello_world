@@ -1,6 +1,6 @@
 ---
 - name         : Hello World - Test
-  hosts        : ssc__prod
+  hosts        : ssc__test
   gather_facts : true
 
 
