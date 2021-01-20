@@ -1,6 +1,6 @@
 ---
-- name         : Hello World - Prod
-  hosts        : ssc__prod
+- name         : Hello World
+  hosts        : all
   gather_facts : true
 
 
