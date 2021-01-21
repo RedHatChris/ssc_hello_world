@@ -1,7 +1,7 @@
 ---
-- name         : Hello World - Prod
-  hosts        : ssc__prod
-  gather_facts : true
+- name: Hello World - Prod
+  hosts: ssc__prod
+  gather_facts: yes
 
 
   tasks:
