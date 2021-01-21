@@ -1,7 +1,7 @@
 ---
-- name         : Hello World - Dev
-  hosts        : all
-  gather_facts : true
+- name: Hello World - Dev
+  hosts: all
+  gather_facts: true
 
 
   tasks:
