@@ -1,7 +1,7 @@
 ---
-- name         : Hello World - Test
-  hosts        : ssc__test
-  gather_facts : true
+- name: Hello World - Test
+  hosts: ssc__test
+  gather_facts: yes
 
 
   tasks:
