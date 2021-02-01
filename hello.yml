@@ -5,6 +5,6 @@
 
 
   tasks:
-    - name: Saying hello to you, my friend!
+    - name: Hello from my lab, friend!
       debug:
-        msg: "Hello, hello, hello!"
+        msg: "Hello!!!"
