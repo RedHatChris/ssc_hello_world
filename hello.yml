@@ -1,7 +1,7 @@
 ---
 - name: Hello World - Dev
   hosts: all
-  gather_facts: yes
+  gather_facts: no
 
 
   tasks:
